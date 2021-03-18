@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+}
+
+#item-1 {
+    background-color: rgb(87, 4, 4);
+    color: rgb(87, 4, 4);
+    width: 10%;
+    border: rgb(87, 4, 4);
+    padding: 10%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+
+#item-2 {
+    background-color: rgb(111, 187, 56);
+    color: rgb(111, 187, 56);
+    width: 10%;
+    border: rgba(111, 187, 56);
+    padding: 10%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    
+}
+
+#item-3 {
+    background-color: rgb(159, 45, 136);
+    color: rgb(159, 45, 136);
+    width: 10%;
+    border:  rgb(159, 45, 136);
+    padding: 10%;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+#item-4 {
+    background-color: rgb(44, 40, 91);
+    color: rgb(44, 40, 91);
+    width: 10%;
+    border: rgb(44, 40, 91);
+    padding: 10%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
